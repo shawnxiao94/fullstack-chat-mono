@@ -22,7 +22,7 @@
             <!-- <a-space class="space-item">
                 <skin-outlined @click="showBackgroundModal = true" class="tool-skin icon" />
             </a-space> -->
-            <a href="" target="_blank" class="tool-github space-item"><github-outlined /></a>
+            <a href="https://github.com/shawnxiao94/fullstack-chat-mono" target="_blank" class="tool-github space-item"><github-outlined /></a>
             <a-space class="space-item">
                 <a-popconfirm title="您确定要登出吗？" placement="right" ok-text="确认" cancel-text="取消" @confirm="confirmLogout"
                     @cancel="cancelLogout">
